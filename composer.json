@@ -37,7 +37,9 @@
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.3.1",
-    "jarednova/timber": "0.21.*"
+    "jarednova/timber": "0.21.*",
+    "wpackagist-plugin/w3-total-cache": "0.9.4.1",
+    "wpackagist-plugin/wp-migrate-db": "0.7.*"
   },
   "extra": {
     "installer-paths": {
